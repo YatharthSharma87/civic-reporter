@@ -46,7 +46,7 @@ if "reports" not in st.session_state:
     ]
 
 st.title("🏙️ Civic Infrastructure Issue Reporter")
-st.markdown("Report street issues, potholes, and hazards for fast municipal response powered by Gemini AI.")
+st.markdown("Report street issues, potholes, and hazards for fast municipal response.")
 
 # --- SIDEBAR ROLE ACCESS CONTROL ---
 st.sidebar.title("Portal Access")
